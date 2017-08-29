@@ -6,9 +6,9 @@ run command: node question1.js
 
 => To run question 2
 run commands:
-npm install express --save
-npm install body-parser --save
-node question2.js
+i) npm install express --save,
+ii) npm install body-parser --save,
+iii) node question2.js
 
 then open browser and type the URL: "localhost:3000/form"
 
